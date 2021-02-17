@@ -1,0 +1,53 @@
+{
+  "name": "zen",
+  "displayName": "Zen Themes",
+  "description": "Themes with lots of zen",
+  "version": "0.9.0",
+  "engines": {
+    "vscode": "^1.53.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "zen",
+    "black",
+    "white",
+    "light",
+    "flat"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Zen",
+        "uiTheme": "vs",
+        "path": "./themes/default/zen-color-theme.json"
+      },
+      {
+        "label": "Zen Light",
+        "uiTheme": "vs",
+        "path": "./themes/light/zen-color-theme.json"
+      },
+      {
+        "label": "Zen White",
+        "uiTheme": "vs",
+        "path": "./themes/white/zen-color-theme.json"
+      }
+    ]
+  },
+  "homepage": "https://github.com/oub/vscode-zen",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/oub/vscode-zen.git"
+  },
+  "bugs": {
+    "url": "https://github.com/oub/vscode-zen/issues"
+  },
+  "license": "SEE LICENSE IN LICENSE.md",
+  "publisher": "oub",
+  "galleryBanner": {
+    "color": "#000",
+    "theme": "dark"
+  },
+  "icon": "icon.png"
+}
