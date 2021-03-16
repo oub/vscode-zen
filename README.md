@@ -1,7 +1,3 @@
-Themes for VSCode with lots of zen
-
-### Default
-
 ![screenshot](media/screenshot-default.png)
 
 ### Light
