@@ -22,6 +22,12 @@
     "activityBar.foreground": "#888",
     "statusBar.foreground": "#777",
 
+    "debugToolBar.background": "#381900",
+    "statusBar.debuggingBackground": "#793600",
+    "statusBar.debuggingForeground": "#fff8",
+
+    "statusBar.noFolderForeground": "#fff8",
+
     "activityBar.inactiveForeground": "#444",
 
     "activityBarBadge.foreground": "#000",
@@ -95,7 +101,7 @@
     "terminal.foreground": "#fff",
     "terminal.ansiBlack": "#888",
     "terminal.ansiWhite": "#ccc",
-    "terminal.selectionBackground": "#dcecfa",
+    "terminal.selectionBackground": "#dcecfa44",
 
     // MENU ------------------------------------------------ #084d8d
 
@@ -107,7 +113,7 @@
     "quickInputTitle.background": "#084d8d",
     "menu.border": "#084d8d",
 
-    "selection.background": "#084d8d44",
+    "selection.background": "#f00",
 
     "menu.selectionBackground": "#fff2",
 
