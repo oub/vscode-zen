@@ -1,12 +1,18 @@
 ![screenshot](media/screenshot-default.png)
+![screenshot](media/screenshot-menu-default.png)
+![screenshot](media/screenshot-quickmenu-default.png)
 
 ### Light
 
 ![screenshot](media/screenshot-light.png)
+![screenshot](media/screenshot-menu-light.png)
+![screenshot](media/screenshot-quickmenu-light.png)
 
 ### White
 
 ![screenshot](media/screenshot-white.png)
+![screenshot](media/screenshot-menu-white.png)
+![screenshot](media/screenshot-quickmenu-white.png)
 
 ## Installation
 
