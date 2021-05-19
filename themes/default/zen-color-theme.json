@@ -1,7 +1,7 @@
 {
   "name": "Zen",
   "type": "light",
-  "tokenColors": "./dropin.tmTheme",
+  "tokenColors": "./qno.tmTheme",
   "colors": {
     //
     // ZONE 1 : TITLE BARS --------------------------------- #000

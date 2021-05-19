@@ -1,7 +1,7 @@
 {
   "name": "Zen",
   "type": "light",
-  "tokenColors": "./dropin.tmTheme",
+  "tokenColors": "../default/qno.tmTheme",
   "colors": {
     "focusBorder": "#0866bd",
     "foreground": "#666",
@@ -168,6 +168,6 @@
     "welcomePage.background": "#fff",
     "welcomePage.buttonBackground": "#eee",
     "welcomePage.buttonHoverBackground": "#f5f5f5",
-    "walkThrough.embeddedEditorBackground":"#f8f8f8"
+    "walkThrough.embeddedEditorBackground": "#f8f8f8"
   }
 }
